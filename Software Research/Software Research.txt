@@ -1,0 +1,28 @@
+Python : - general purpose langauge 
+                      ||
+           Used in many Domain(As field)
+Here We can use Python in  7 most popular domain
+
+>Machine learning 
+>DevOps
+>Web Scarping 
+>Web applicaton Development 
+>Desktop Application Development 
+>Fundameentals of programming 
+>NAtural LAnguage processing
+
+Computer language :- 
+
+>Machine level language 
+a) Computer can understand only digital signal , Which is binary digit Eg 0 and 1
+b) So the instuction given to the computer can be only inbinary code 
+
+example : 
+    Decimal Number       |         4-bit Binary Number
+          9              |             1001
+          10             |             1010
+
+     Alphabets           |         binary number 
+         A               |           01000001
+         B               |           01000010
+
