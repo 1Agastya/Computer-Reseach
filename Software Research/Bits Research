@@ -1,1 +1,19 @@
+Bits: There many question around us How PC work using binary number. 
+So, Staring from Start ,
+
+What are binary number and bits?
+=>A binary number is a numerical value represented in the base-2 numeral system,
+  which uses only two symbols: "0" and "1." This system is a method of expressing
+  numbers using just these two digits. Binary numbers can represent natural numbers
+  as well as rational numbers that have a finite expression in base-2. Specifically,
+   a rational binary number is the result of dividing an integer by a power of two.
+   This compact and straightforward system forms the foundation of modern computing 
+    and digital logic.
+
+  2) Bits (short for binary digits) are the smallest unit of data in computing and 
+     digital communications. A bit can have one of two possible values: 0 or 1, which
+    correspond to the binary numeral system. These two states often represent concepts
+     such as off/on, false/true, or low/high in electrical systems.
+
+transistor(electronic components)  ======>   Bits  ====> Binary digits 
 
