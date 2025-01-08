@@ -1,3 +1,4 @@
+
 Python : - general purpose langauge 
                       ||
            Used in many Domain(As field)
@@ -25,4 +26,15 @@ example :
      Alphabets           |         binary number 
          A               |           01000001
          B               |           01000010
+ Deep knownlogy : - 
+Machine code are present in binary lanaguage. As    
+
+>Assembly Language 
+a) The difficulties faced in machine level language were reduced to some extent by using a modified form of machine level language called assembly language 
+> In assembly language instrction are given in english like word as MOV,ADD SUBB etc 
+>Assembly language is also know as low level language .
+>Assembly level language need a translator  "Assembler". Where we are using english word as it necessary to convert the program to binary language 
+
+Assembly language  ====>  Assembler  ======> binary language (machine code)
+
 
